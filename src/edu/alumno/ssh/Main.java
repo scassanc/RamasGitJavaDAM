@@ -20,5 +20,6 @@ public class Main {
         System.out.printf("Número complementario: %d", complementary);
 
         System.out.println("¡Buena suerte en el sorteo!");
+        System.out.println("Cambio realizado desde GitHub.");
     }
 }
