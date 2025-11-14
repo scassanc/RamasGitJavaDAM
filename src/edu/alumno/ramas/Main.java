@@ -12,7 +12,7 @@ public class Main {
             bolas.add(r.nextInt(49) + 1);
         }
 
-        System.out.println("¡Mala suerte en el sorteo, DAM!");
+        System.out.println("¡Suerte en el sorteo, DAM!");
 
         System.out.println("Números principales: " + bolas);
 
